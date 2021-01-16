@@ -1,0 +1,266 @@
+.banner-section .col-sm-12{padding-left:0;padding-right:0}
+.banner-section .banner1{background:url(../images/home-banner-new1.webp) no-repeat 75% bottom, url(../images/home-banner-new1.jpg) no-repeat 75% bottom;min-height:650px;padding-top:150px}
+.banner-section .banner2{background:url(../images/home-banner-new.webp) no-repeat 75% bottom, url(../images/home-banner-new.jpg) no-repeat 75% bottom;min-height:650px;padding-top:120px}
+.banner-section .banner-caption{left:17%;position:relative}
+.banner-section .carousel-caption{text-shadow:none;text-align:left;padding-bottom:0}
+.banner-section .carousel-control{width:10%;}
+.banner-section .carousel-indicators{bottom:-0px;}
+.carousel-indicators li{background-color:#000\9;background-color:#999;}
+.banner-section h1{font-size:70px;color:#333;font-family:'Roboto-Black';text-align:left;max-width:550px;line-height:70px;text-transform:uppercase;background:linear-gradient(to right, #4c8dd4, #020406);-webkit-background-clip:text;-webkit-text-fill-color:transparent;letter-spacing:-0px}
+.banner-section h2{font-size:33px;color:#333;font-family:'Roboto-Medium';margin-bottom:15px;letter-spacing:-1px}
+.banner-section a.know_more{text-decoration:none;font-size:15px;color:#e30600;font-family:'Roboto-Medium';}
+.banner-section a.know_more:after{content:'';background:url(../images/know-more.png) no-repeat right top;width:114px;transition:all 0.35s ease-in-out;left:0;height:16px;position:relative;right:0;display:block;top:-19px;}
+.banner-section a.know_more:hover:after{left:10px;}
+.home-arr-left .glyphicon-chevron-left::before{content:'';background:url(../images/home_arr_left.png) no-repeat;border-radius:10px;width:22px;height:41px;display:block;margin-top:0px;}
+.home-arr-right .glyphicon-chevron-right::before{content:'';background:url(../images/home_arr_right.png) no-repeat;border-radius:10px;width:22px;height:41px;display:block;margin-top:0px;}
+.home-arr-left .glyphicon-chevron-left:hover::before{content:'';background:url(../images/home_arr_left.png) no-repeat;border-radius:10px;width:22px;height:41px;display:block;margin-top:0px;}
+.home-arr-right .glyphicon-chevron-right:hover::before{content:'';background:url(../images/home_arr_right.png) no-repeat;border-radius:10px;width:22px;height:41px;display:block;margin-top:0px;}
+.banner-section .carousel .carousel-control{visibility:hidden;}
+.banner-section .carousel:hover .carousel-control{visibility:visible;}
+.delay-2s{animation-delay:1.0s;}
+.rapid_prototype_sec{max-width:1600px;margin:0 auto 15px;overflow: auto;clear: both;}
+a.rapid_prototype{overflow:hidden;position:relative;background:url(../images/home-new-col1.jpg) no-repeat scroll center top/cover;transition:all .8s;width:100%;height:329px;color:#fff;float:left;}
+a.rapid_prototype::before, a.exp_usability::before, a.agile_advantage::before{content:"";position:absolute;top:0;right:0;bottom:0;left:0;background:inherit;transition:inherit;}
+a.rapid_prototype:hover::before, a.exp_usability:hover::before, a.agile_advantage:hover::before{transform:scale(1.2);text-decoration:none;}
+a.rapid_prototype:hover, a.exp_usability:hover, a.agile_advantage:hover{text-decoration:none;}
+.rapid_prototype_sec .col-sm-4.nopadding{padding-left:0 !important;padding-right:2px !important;}
+.rapid_prototype_sec .content{padding:150px 140px 0 68px;font-size:15px;}
+.rapid_prototype_sec h2 {font-size:27px;font-family:'Roboto-Bold';color:#fff;text-align:left}
+.rapid_prototype_sec .content p{color:#d6d8db;}
+.rapid_prototype_sec .content a{color:#fff;}
+a.exp_usability{overflow:hidden;position:relative;background:url(../images/home-new-col2.jpg) no-repeat scroll center top/cover;transition:all .8s;width:100%;height:329px;color:#fff;float:left;}
+a.agile_advantage{overflow:hidden;position:relative;background:url(../images/home-new-col3.jpg) no-repeat scroll center top/cover;transition:all .8s;width:100%;height:329px;color:#fff;float:left;}
+.rapid_prototype .know_more{}
+.rapid_prototype .know_more:after, .exp_usability .know_more:after, .agile_advantage .know_more:after{content:'';background:url(../images/readmore.png) no-repeat right top;width:28px;transition:all 0.35s ease-in-out;left:0;height:16px;position:relative;right:0;display:block;top:0px;}
+.rapid_prototype .know_more:hover:after, .exp_usability .know_more:hover:after, .agile_advantage .know_more:hover:after{left:10px;}
+.home_member_sec{max-width:1600px;margin:0 auto;}
+.home_member_sec article{padding:50px 0 100px 0;float:left;width:100%;}
+.home_member_sec .col-sm-6.bdr:after{content:'';border-right:1px solid #ddd;height:178px;position:absolute;right:0;display:block;top:0px;}
+.home_member_sec img{text-align:center;margin:0 auto}
+.home_member_sec h4, .product_offerings_sec h4, .success_stories_sec h4, .select_clients h4, .technology_expertise_sec h4{font-size:14px;font-family:'Roboto-Bold';text-transform:uppercase;text-align:center;color:#333333;margin-bottom:44px}
+.discover_approach{background:url(../images/new-approach.jpg) no-repeat scroll right top #3088f4;background-size:50% 100%;min-height:764px;text-align:left;color:#fff}
+.discover_approach article{padding:80px 0;}
+.discover_approach h2{font-size:30px;font-family:'Roboto-Bold';text-align:left;margin-bottom:35px;color:#333333}
+.discover_approach p{margin-bottom:15px}
+.discover_approach h2 span{color:#fff}
+.discover_approach #discover .carousel-control{width:0%;}
+.discover_approach #discover .carousel-control .glyphicon-chevron-left, .carousel-control .icon-prev{margin-left:-0px;margin-top:150px;border-radius:0px;}
+.discover_approach #discover .carousel-control .glyphicon-chevron-right, .carousel-control .icon-next{margin-right:-120px;margin-top:150px;border-radius:0px;}
+.discover_approach #discover .carousel-control .glyphicon-chevron-left::before{content:'';background:url(../images/carousel-prev.png) no-repeat transparent;border-radius:0px;width:52px;height:52px;display:block;margin-top:0px;}
+.discover_approach #discover .carousel-control .glyphicon-chevron-right::before{content:'';background:url(../images/carousel-next.png) no-repeat transparent;border-radius:0px;width:53px;height:52px;display:block;margin-top:0px;}
+.discover_approach #discover .carousel-caption{text-align:left;text-shadow:none}
+.discover_approach #discover .carousel-indicators{display:none}
+#discover .carousel-control.right{left:0px;}
+#discover .carousel-control .glyphicon-chevron-left, .carousel-control .icon-prev{margin-left:-80px;}
+.discover_approach .services_container{display:flex;flex-wrap:nowrap;}
+.discover_approach .services_container .col-md-4:first-child{padding-left:0}
+.discover_approach .services_col{background:#fff;border-radius:8px;padding:35px 20px 25px 20px;height:100%;color:#000;float:left}
+.discover_approach .services_col h3{font-size:20px;font-family:'Roboto-Bold';margin-top:0;margin-bottom:15px; color: #202229; }
+.discover_approach .services_col .digital_services{background:url(../images/icon-digital-services.png) no-repeat left top;width:57px;height:67px;}
+.discover_approach .services_col .application_services{background:url(../images/icon-application-services.png) no-repeat left top;width:53px;height:53px;}
+.discover_approach .services_col .mobility_solutions{background:url(../images/icon-mobility-solutions.png) no-repeat left top;width:53px;height:67px;}
+.discover_approach .services_col .product_development{background:url(../images/icon-product-dev.png) no-repeat left top;width:57px;height:67px;}
+.discover_approach .services_col .experience_design{background:url(../images/icon-experience-design.png) no-repeat left top;width:57px;height:67px;}
+.discover_approach .services_col .emerging_technologies{background:url(../images/icon-emerging-tech.png) no-repeat left top;width:57px;height:67px;}
+.discover_approach .services_col a{color:#333}
+.discover_approach .services_col .icon-left{float:left;width:20%;}
+.discover_approach .services_col .icon-text{float:left;width:80%;padding-bottom:30px;font-size:14px;line-height:26px}
+.product_offerings_sec, .success_stories_sec{max-width:1600px;margin:0 auto;padding:50px 0}
+.product_offerings_sec .col-sm-6:first-child, .success_stories_sec .col-sm-6:first-child{padding-right:30px}
+.product_offerings_sec .image_container, .success_stories_sec .image_container{position:relative;}
+.product_offerings_sec .caption{position:absolute;bottom:30px;left:58px;color:#fff;font-family:'Roboto-Light';max-width:67%;text-align:left}
+.product_offerings_sec .caption h2{font-size:30px;color:#fff;font-family:'Roboto-Bold';text-align:left;line-height:33px;}
+.product_offerings_sec .caption a{font-family:'Roboto-Bold';color:#fff;transition:all 0.3s linear}
+.select_clients{background:#f3f3f3;width:100%;margin:0 auto;padding:50px 0}
+.select_clients .clients_container{position:relative;left:0;right:0;margin:0 auto;text-align:center}
+.select_clients .clients_container .col-pad{border:1px solid #ddd;border-collapse:collapse;width:100%;}
+.select_clients .clients_container ul{margin:0 auto;padding:0;list-style:none;position:relative;left:0;right:0;display:block;text-align:center;width:auto;}
+.select_clients .clients_container ul li{text-align:center;display:inline-block;width:250px;height:150px;vertical-align:middle;border:1px solid #ddd;border-collapse:collapse;margin-left:-5px;margin-bottom:-1px}
+.select_clients .clients_container ul li:hover{background:#fff}
+.select_clients .clients_container ul li img{position:relative;text-align:center;margin:0 auto;transform:translate(0px, -50%);top:50%;}
+.select_clients .clients_container ul li.client-col{text-align:center;}
+.success_stories_sec .caption{position:absolute;bottom:30px;left:58px;color:#fff;font-family:'Roboto-Light';max-width:63%;text-align:left}
+.success_stories_sec .caption h2{font-size:30px;color:#fff;font-family:'Roboto-Bold';text-align:left}
+.success_stories_sec .caption a{font-family:'Roboto-Bold';color:#fff;transition:all 0.3s linear}
+.success_stories_sec .caption a:hover, .product_offerings_sec .caption a:hover{background:#fff;border-radius:25px;padding:8px 10px;color:#0e65ba;text-decoration:none}
+#grid{display:grid;grid-template-rows:80px 1fr 80px;grid-template-columns:5em 5em 1fr;grid-gap:0px;height:150px;}
+#grid > div{background-color:dodgerblue;color:white;padding:10px;}
+.hiring_sec{background:url(../images/hiring-bg.jpg) no-repeat scroll center top/cover #769cc0;width:100%;min-height:525px;}
+.hiring_sec a.hiring{border:4px solid #fff;text-align:center;text-transform:uppercase;color:#fff;font-family:'Roboto-Bold';display:block;width:100%;min-height:80px;line-height:80px;vertical-align:middle;font-size:28px;letter-spacing:9px;position:relative}
+a.hiring:hover{text-decoration:none;background:#fff;border:4px solid #000;color:#000;}
+.hiring_sec #outer{height:525px;max-width:475px;width:100%;margin:0 auto}
+.hiring_sec #inner{position:relative;transform:translate(0px, -50%);top:50%;}
+.technology_expertise_sec{margin:0 auto;padding:50px;background:#f3f3f3;}
+.technology_expertise_sec h2{font-size:15px;text-align:center;max-width:770px;margin:0 auto;color:#333333;line-height:26px;font-family:'Roboto-Light';}
+.technology_expertise_sec .flexslider{background:none;}
+.technology_expertise_sec .flexslider ul.slides{margin:50px 0;padding:0}
+.technology_expertise_sec .flexslider ul.slides li{height:140px;padding-top:25px;}
+.technology_expertise_sec .flexslider ul.slides li:first-chlid{margin-left:15px;}
+.flyout{transition:.5s ease;position:absolute;left:0;top:0;text-decoration:none;background:#fff;color:#000;overflow:hidden;z-index:10000;text-align:center;text-transform:uppercase;font-family:'Roboto-Bold';display:none;width:100%;height:0px;line-height:80px;vertical-align:middle;font-size:28px;letter-spacing:9px;overflow:hidden}
+a.hiring:hover .flyout{display:block;height:100%}
+.upcoming-text{white-space:nowrap;color:black;position:absolute;overflow:hidden;top:50%;left:50%;transform:translate(-50%, -50%);-ms-transform:translate(-50%, -50%);}
+.technology_expertise_sec .flexslider ul.slides li .logo_caption{position:relative;height:50px;display:none;text-transform:uppercase;padding-top:20px;text-align:center;color:#666666}
+.technology_expertise_sec .flexslider ul.slides li:hover{box-shadow:0px 0px 3px 3px rgba(0,0,0,0.1);background:#fff;margin:0 auto}
+.technology_expertise_sec .flexslider ul.slides li:hover .logo_caption{display:block;position:relative;text-align:center;}
+.technology_expertise_sec .flex-direction-nav{display:none}
+.technology_expertise_sec .flex-direction-nav{width:100%}
+@keyframes fadeInLeft{0%{opacity:0;-webkit-transform:translateX(-20px);-ms-transform:translateX(-20px);transform:translateX(-20px);}
+100%{opacity:1;-webkit-transform:translateX(0);-ms-transform:translateX(0);transform:translateX(0);}
+}
+.fadeInLeft{-webkit-animation-name:fadeInLeft;animation-name:fadeInLeft;}
+@-webkit-keyframes zoomIn{0%{opacity:0;-webkit-transform:scale(.1);transform:scale(.1);}
+50%{opacity:0.5;}
+100%{opacity:0.8;}
+}
+@keyframes zoomIn{0%{opacity:0;-webkit-transform:scale(.1);-ms-transform:scale(.1);transform:scale(.1);}
+50%{opacity:0.5;}
+100%{opacity:0.8;}
+}
+.zoomIn{-webkit-animation-name:zoomIn;animation-name:zoomIn;}
+@-webkit-keyframes slideInLeft{0%{opacity:0;-webkit-transform:translateX(-2000px);transform:translateX(-2000px);}
+100%{-webkit-transform:translateX(0);transform:translateX(0);}
+}
+@keyframes slideInLeft{0%{opacity:0;-webkit-transform:translateX(-2000px);-ms-transform:translateX(-2000px);transform:translateX(-2000px);}
+100%{-webkit-transform:translateX(0);-ms-transform:translateX(0);transform:translateX(0);}
+}
+.slideInLeft{animation-name:slideInLeft}
+.slideInUp{animation-name:slideInUp}
+@keyframes slideInDown{0%{transform:translate3d(0,-100%,0);visibility:visible}to{transform:translateZ(0)}}
+.slideInDown{animation-name:slideInDown}
+#flexiselDemo1, #flexiselDemo2, #flexiselDemo3{display:none;}
+.nbs-flexisel-container{position:relative;max-width:100%;}
+.nbs-flexisel-ul{position:relative;width:99999px;margin:0px;padding:50px 0;list-style-type:none;text-align:center;overflow:auto;height:250px;}
+.nbs-flexisel-inner{position:relative;overflow:hidden;float:left;width:100%;}
+.nbs-flexisel-item{float:left;margin:0px;padding:0px 10px;cursor:pointer;position:relative;line-height:0px;}
+.nbs-flexisel-item img{max-width:100%;cursor:pointer;position:relative;margin-top:10px;margin-bottom:10px;}
+ul#flexiselDemo2 li .logo_caption{position:relative;height:50px;display:none;text-transform:uppercase;padding-top:20px;text-align:center;color:#666666}
+ul#flexiselDemo2 li:hover{box-shadow:0px 0px 3px 3px rgba(0,0,0,0.1);background:#fff;margin:0 auto}
+ul#flexiselDemo2 li:hover .logo_caption{display:block;position:relative;text-align:center;}
+.nbs-flexisel-nav-left{position:absolute;cursor:pointer;z-index:4;top:0%;background:url(../images/client-prev.png) no-repeat;width:46px;height:46px;}
+.nbs-flexisel-nav-right{position:absolute;cursor:pointer;z-index:4;top:0%;background:url(../images/client-next.png) no-repeat;width:46px;height:46px;}
+.nbs-flexisel-nav-left, .nbs-flexisel-nav-right{display:none}
+.nbs-flexisel-nav-left{left:10px;}
+.nbs-flexisel-nav-left.disabled{opacity:0.4;}
+.nbs-flexisel-nav-right{right:-15px;}
+.nbs-flexisel-nav-right.disabled{opacity:0.4;}
+.location-sec p{min-height:130px;overflow:auto}
+/*safetymint*/
+.col-centered{float: none;margin: 0 auto}
+section.safetymint_sec {clear: both;padding: 90px 0px;background:url(../images/index-safetymint-bg.jpg) no-repeat center center / cover;}
+.launch-text {font-family:'Roboto-Bold';font-size: 13px;color: #666666;line-height: 20px;text-transform: uppercase;margin: 0 0 20px}
+.launch-text:after {content: '';display: inline-block;width: 90px;height: 1px;background: #666;position: relative;margin: 5px 10px;}
+.content_safety{margin: 20px 0 0;}
+.content_safety h3{font-size: 22px;color: #01266c;line-height: 24px;margin: 0 0 15px;font-family: "Roboto-Regular";text-align: left;}
+.content_safety p{font-size: 18px;color: #333;line-height: 28px;margin: 0 0 20px;font-family: "Roboto-Regular";text-align: left;}
+.content_safety a{font-family:'Roboto-Bold';color: #fff;padding: 10px 45px 10px 20px;border-radius: 30px;display: inline-block;transition: 0.2s linear;font-size: 14px;line-height: 24px;background:#8cc152 url(../images/learn-more.png) no-repeat 85% 15px;}
+.content_safety a:hover{color: #8cc152;background:#fff url(../images/learn-more-hover.png) no-repeat 85% 15px;transition: 0.2s linear;text-decoration: none}
+/*safetymint*/
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:1366px){.rapid_prototype_sec .content{padding:150px 40px 0px 68px;}
+.banner-section .carousel-control .glyphicon-chevron-right, .banner-section .carousel-control .icon-next{margin-right:-15px;}
+}
+@media screen and (max-width:1280px){.rapid_prototype_sec .content{padding:150px 30px 0 55px;}
+.banner-section .banner1{background:url(../images/home-banner-new1.jpg) no-repeat 98% bottom;}
+.banner-section .banner2{background:url(../images/home-banner-new.jpg) no-repeat 98% bottom;}
+.discover_approach .services_col .digital_services, .discover_approach .services_col .application_services, .discover_approach .services_col .mobility_solutions, .discover_approach .services_col .product_development, .discover_approach .services_col .experience_design, .discover_approach .services_col .emerging_technologies{background-size:80%;}
+.discover_approach .services_col h3{font-size:18px;}
+}
+@media screen and (max-width:1200px){.success_stories_sec .caption h2, .product_offerings_sec .caption h2{font-size:20px;}
+.product_offerings_sec .caption, .success_stories_sec .caption{left:40px;max-width:75%;}
+.success_stories_sec .caption{max-width:95%;bottom:20px;}
+}
+@media screen and (max-width:1024px){.rapid_prototype_sec .content{padding:150px 10px 0 25px;}
+.product_offerings_sec .caption h2, .success_stories_sec .caption h2{font-size:20px;line-height:28px}
+.carousel-control{left:17px;}
+.discover_approach{background:none #3088f4;text-align:left;color:#fff}
+.discover_approach .services_col .digital_services, .discover_approach .services_col .application_services, .discover_approach .services_col .mobility_solutions, .discover_approach .services_col .product_development, .discover_approach .services_col .experience_design, .discover_approach .services_col .emerging_technologies{background-size:80%;height:67px;}
+.discover_approach .services_col h3{font-size:16px;}
+}
+@media screen and (max-width:1023px){.discover_approach .services_container{display:block;}
+.discover_approach .services_container .col-md-4:first-child{padding-left:15px}
+.discover_approach .services_col{padding:35px 20px 20px 20px;margin-bottom:25px;width:90%;}
+.discover_approach .services_col .icon-left{width:10%;}
+.discover_approach .services_col .icon-text{width:75%;padding-bottom:0px;}
+.discover_approach #discover .carousel-control .glyphicon-chevron-left, .carousel-control .icon-prev{margin-top:0px;background:none}
+.discover_approach #discover .carousel-control .glyphicon-chevron-right, .carousel-control .icon-next{margin-top:0px;margin-right:0;background:none}
+.discover_approach #discover .carousel-control .glyphicon-chevron-left::before{background:url(../images/home_arr_left1.png) no-repeat transparent;width:28px;height:41px;}
+.discover_approach #discover .carousel-control .glyphicon-chevron-right::before{background:url(../images/home_arr_right1.png) no-repeat transparent;width:28px;height:41px;}
+#discover .carousel-control.right{right:-20px;left:auto;}
+.carousel-control{left:-17px;}
+.discover_approach #discover .carousel-indicators{display:none;bottom:-60px;}
+.discover_approach #discover .carousel-indicators li{display:inline-block;width:12px;height:12px;margin:0 5px;background-color:#c9c5c5;}
+.discover_approach #discover .carousel-indicators .active{width:12px;height:12px;background-color:#fff;}
+}
+@media screen and (max-width:800px){.rapid_prototype_sec h2{font-size:23px;line-height:12px;}
+}
+@media screen and (max-width:768px){.banner-section .banner1{background:url(../images/home-banner-new1.jpg) no-repeat 45% bottom;padding-top:50px}
+.banner-section .banner2{background:url(../images/home-banner-new.jpg) no-repeat 45% bottom;padding-top:50px;}
+.banner-section .container{width:95%;}
+.banner-section h1{font-size:48px;line-height:50px;}
+.banner-section h2{font-size:19px;}
+.rapid_prototype, .exp_usability, .agile_advantage{height:280px;margin-bottom:2px;}
+.rapid_prototype_sec h2{font-size:21px;}
+.product_offerings_sec .caption, .success_stories_sec .caption{left:auto;max-width:98%;padding-left:30px;}
+.home-arr-left .glyphicon-chevron-left::before, .home-arr-right .glyphicon-chevron-right::before{width:22px;height:41px;background-size:100%;}
+.discover_approach .services_col h3{font-size:17px;margin-bottom:5px;}
+ul#flexiselDemo2 li .logo_caption{display:block;}
+ul#flexiselDemo2 li:hover{box-shadow:none;background:none;margin:0 auto}
+.nbs-flexisel-item{float:left;margin:0px;padding:0px 0px;}
+.resp_container{max-width:572px;width:100%;margin:0 auto;}
+}
+@media screen and (max-width:767px){.banner-section .banner1{padding-top:50px}
+.banner-section .banner2{padding-top:50px;}
+.banner-section .carousel-caption{left:0%;}
+.banner-section h1{}
+.home_member_sec article .col-sm-6.bdr{margin-bottom:30px;}
+.home_member_sec .col-sm-6.bdr{float:left;width:100%}
+.home_member_sec .col-sm-6.bdr:after{border:0}
+.home_member_sec img{text-align:center;margin:0 auto;}
+.select_clients .clients_container ul li{width:150px;height:150px;text-align:center}
+.select_clients .clients_container ul li img{text-align:center;margin:0 auto;max-width:80%;}
+.product_offerings_sec .image_container{margin:0 auto;position:relative;left:0;right:0;text-align:center;display:block;width:100%}
+.image_container.pull-right{float:none !important}
+.product_offerings_sec .caption a{font-size:13px;}
+.discover_approach .carousel-caption{left:2%;}
+.nbs-flexisel-nav-left, .nbs-flexisel-nav-right{display:block;top:40%;}
+.success_stories_sec .caption{max-width:90%;}
+.product_offerings_sec .caption{max-width:70%;}
+}
+@media screen and (max-width:480px) and (min-width:640px){.discover_approach .services_col .digital_services, .discover_approach .services_col .application_services, .discover_approach .services_col .mobility_solutions, .discover_approach .services_col .product_development, .discover_approach .services_col .experience_design, .discover_approach .services_col .emerging_technologies{background-size:80%;height:100%;}
+}
+@media screen and (max-width:480px){.banner-section .banner1{background:url(../images/banner_mobile1.webp) no-repeat 75% bottom, url(../images/banner_mobile1.jpg) no-repeat 75% bottom;}
+.banner-section .banner2{background:url(../images/banner_mobile2.webp) no-repeat 75% bottom, url(../images/banner_mobile2.jpg) no-repeat 75% bottom;}
+.banner-section .banner1, .banner-section .banner2{min-height:500px;padding-top:30px;}
+.banner-section h1{width:80%;letter-spacing:-1px;}
+a.rapid_prototype, a.exp_usability, a.agile_advantage{background-size:auto;}
+.discover_approach{background:none #3088f4;}
+.discover_approach h2{margin-bottom:20px;}
+.discover_approach .services_col{padding:15px;}
+.discover_approach .services_col .icon-text{font-size:12px;line-height:21px;}
+.technology_expertise_sec{padding:50px 20px;}
+.banner-section h1{font-size:26px;line-height:30px;}
+.banner-section h2{font-size:17px;width:64%;}
+.success_stories_sec .caption{max-width:95%;bottom:10px;}
+.product_offerings_sec .caption{bottom:20px;max-width:95%;}
+.product_offerings_sec .caption h2, .success_stories_sec .caption h2{font-size:15px;width:90%;line-height:20px;margin-bottom:0px;}
+.product_offerings_sec .caption p, .success_stories_sec .caption p{font-size:13px;line-height:19px;margin-bottom:5px;}
+.success_stories_sec .caption h2{margin-bottom:5px;}
+.discover_approach .services_col .icon-left{width:15%;margin-top:10px;}
+.location-sec p{font-size:11px;min-height:auto;}
+.content_safety p {font-size: 16px;line-height: 22px;}
+}
+@media screen and (max-width:360px){.technology_expertise_sec h2{max-width:100%;}
+.hiring_sec #outer{max-width:250px;}
+.hiring_sec a.hiring, .flyout{max-width:250px;min-height:80px;font-size:21px;line-height:31px;padding-top:8px;}
+.upcoming-text{white-space:normal;font-size:21px;line-height:31px;overflow:hidden;}
+.discover_approach .services_col{width:95%;}
+.home-arr-left .glyphicon-chevron-left::before{margin-top:312px;}
+.success_stories_sec .caption a{font-size:13px;}
